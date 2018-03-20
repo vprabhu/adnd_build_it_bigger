@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokeAssemble</string>
+    <string name="key_admob">ca-app-pub-2679054216759780~8204028272</string>
+    <string name="button_label_display_joke">Display a Joke</string>
+</resources>
